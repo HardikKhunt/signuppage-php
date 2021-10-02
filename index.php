@@ -45,9 +45,9 @@ echo "<script>window.location.href='index.php'</script>";
 <thead>
 <th>#</th>
 <th>First Name</th>
-<th>Last Name</th>
-<th>Email</th>
-<th>Contact</th>
+<th>Surname</th>
+<th>Email Address</th>
+<th>Contact Number</th>
 <th>Address</th>
 <th>Posting Date</th>
 <th>Edit</th>
